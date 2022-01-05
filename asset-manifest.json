@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/sv-pathogenicity/static/css/main.0bfa61b0.chunk.css",
+    "main.js": "/sv-pathogenicity/static/js/main.7f175d03.chunk.js",
+    "main.js.map": "/sv-pathogenicity/static/js/main.7f175d03.chunk.js.map",
+    "runtime-main.js": "/sv-pathogenicity/static/js/runtime-main.ed73ab53.js",
+    "runtime-main.js.map": "/sv-pathogenicity/static/js/runtime-main.ed73ab53.js.map",
+    "static/js/2.2a249693.chunk.js": "/sv-pathogenicity/static/js/2.2a249693.chunk.js",
+    "static/js/2.2a249693.chunk.js.map": "/sv-pathogenicity/static/js/2.2a249693.chunk.js.map",
+    "static/js/3.d28d78c6.chunk.js": "/sv-pathogenicity/static/js/3.d28d78c6.chunk.js",
+    "static/js/3.d28d78c6.chunk.js.map": "/sv-pathogenicity/static/js/3.d28d78c6.chunk.js.map",
+    "static/js/4.6bec7d4e.chunk.js": "/sv-pathogenicity/static/js/4.6bec7d4e.chunk.js",
+    "static/js/4.6bec7d4e.chunk.js.map": "/sv-pathogenicity/static/js/4.6bec7d4e.chunk.js.map",
+    "static/js/5.005ea5c0.chunk.js": "/sv-pathogenicity/static/js/5.005ea5c0.chunk.js",
+    "static/js/5.005ea5c0.chunk.js.map": "/sv-pathogenicity/static/js/5.005ea5c0.chunk.js.map",
+    "static/js/6.02153e1c.chunk.js": "/sv-pathogenicity/static/js/6.02153e1c.chunk.js",
+    "static/js/6.02153e1c.chunk.js.map": "/sv-pathogenicity/static/js/6.02153e1c.chunk.js.map",
+    "static/js/7.7bab7848.chunk.js": "/sv-pathogenicity/static/js/7.7bab7848.chunk.js",
+    "static/js/7.7bab7848.chunk.js.map": "/sv-pathogenicity/static/js/7.7bab7848.chunk.js.map",
+    "index.html": "/sv-pathogenicity/index.html",
+    "static/css/main.0bfa61b0.chunk.css.map": "/sv-pathogenicity/static/css/main.0bfa61b0.chunk.css.map",
+    "static/js/2.2a249693.chunk.js.LICENSE.txt": "/sv-pathogenicity/static/js/2.2a249693.chunk.js.LICENSE.txt",
+    "static/js/3.d28d78c6.chunk.js.LICENSE.txt": "/sv-pathogenicity/static/js/3.d28d78c6.chunk.js.LICENSE.txt",
+    "static/js/4.6bec7d4e.chunk.js.LICENSE.txt": "/sv-pathogenicity/static/js/4.6bec7d4e.chunk.js.LICENSE.txt",
+    "static/js/5.005ea5c0.chunk.js.LICENSE.txt": "/sv-pathogenicity/static/js/5.005ea5c0.chunk.js.LICENSE.txt",
+    "static/js/6.02153e1c.chunk.js.LICENSE.txt": "/sv-pathogenicity/static/js/6.02153e1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed73ab53.js",
+    "static/js/2.2a249693.chunk.js",
+    "static/css/main.0bfa61b0.chunk.css",
+    "static/js/main.7f175d03.chunk.js"
+  ]
+}
